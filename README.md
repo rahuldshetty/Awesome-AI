@@ -3,4 +3,3 @@ This is a curated list of awesome work happening in the space of the Artificial 
 
 - [GenAI](/GenAI/README.md)
 	- [LLM](/GenAI/LLM.md)
-	- 
