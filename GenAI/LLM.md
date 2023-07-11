@@ -48,6 +48,9 @@ Large Language Models (LLMs) are foundational machine learning models to process
 
 * [Analytics Vidhya - What are LLMs?](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
 * [Replit - How to train your own Large Language Models](https://blog.replit.com/llm-training)
+* [HuggingFace - Making LLMs even more accessible with bitsandbytes, 4-bit quantization and QLoRA](https://huggingface.co/blog/4bit-transformers-bitsandbytes)
+* [Fine-tuning 20B LLMs with RLHF on a 24GB consumer GPU](https://huggingface.co/blog/trl-peft)
+* 
   
 
 
