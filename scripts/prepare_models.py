@@ -112,7 +112,7 @@ result = ""
 
 for csv_file in csv_files:
     # Generate Models.md content
-    result += process_csv_format(open(csv_file, 'r').read()) + "\n\n\n"
+    result += process_csv_format(open(csv_file, 'r').read()) + "\n\n"
 
 with open(os.path.join(TARGET_PATH, MODEL_FILE_NAME), 'w') as f:
     f.write(result)
