@@ -38,13 +38,17 @@ Large Language Models (LLMs) are foundational machine learning models to process
 
 ## Tutorials
 
-
+* [HuggingFace - Training a causal language model from scratch](https://huggingface.co/learn/nlp-course/chapter7/6)
+* [Training Conversational AI](https://erichartford.com/meet-samantha)
+* [Training Your Own LLM using privateGPT](https://levelup.gitconnected.com/training-your-own-llm-using-privategpt-f36f0c4f01ec)
+* 
+    
 
 ## Blogs/Articles
 
 * [Analytics Vidhya - What are LLMs?](https://www.analyticsvidhya.com/blog/2023/03/an-introduction-to-large-language-models-llms/)
 * [Replit - How to train your own Large Language Models](https://blog.replit.com/llm-training)
-* 
+  
 
 
 
