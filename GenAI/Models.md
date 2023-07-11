@@ -1,10 +1,12 @@
-# LLM Models
+# Language Models
 
-| Model   | About the Model                                | Release Date | Paper                                                                                                                                                                                  |
-| ------- | ---------------------------------------------- | ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| GPT 1.0 | Transformer-Decoder (117M)                     | 2018-06      | [Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf) |
-| BERT    | Transformer-Encoder  Base (110M), Large (340M) | 2018-10      | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://aclanthology.org/N19-1423.pdf)                                                              |
-| GPT 2.0 | Transformer-Decoder (1.5B)                     | 2019-12      | [Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)              |
-|         |                                                |              |                                                                                                                                                                                        |
-|         |                                                |              |                                                                                                                                                                                        |
+| Model |About Model |Release Date |Paper |
+| --------- |--------- |--------- |--------- |
+| [GPT 1.0](https://huggingface.co/openai-gpt)  |Transformer-Decoder (117M) |2018-06 |[Improving Language Understanding by Generative Pre-Training](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)  |
+| [BERT](https://huggingface.co/bert-base-uncased)  |Transformer-Encoder  Base (110M) |Large (340M) |[2018-10](BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding)  |https://aclanthology.org/N19-1423.pdf |
+| [GPT 2.0](https://huggingface.co/gpt2)  |Transformer-Decoder (1.5B) |2019-12 |[Language Models are Unsupervised Multitask Learners](https://d4mucfpksywv.cloudfront.net/better-language-models/language_models_are_unsupervised_multitask_learners.pdf)  |
+
+
+
+
 
