@@ -7,6 +7,7 @@ Large Language Models (LLMs) are foundational machine learning models to process
 ## Frameworks
 
 * [transformers](https://github.com/huggingface/text-generation-inference): 🤗 Transformers provides APIs and tools to easily download and train state-of-the-art pretrained models.
+* [transformers.js](https://github.com/xenova/transformers.js): State-of-the-art Machine Learning for the web. Run 🤗 Transformers directly in your browser, with no need for a server!
 * [datasets](https://github.com/huggingface/datasets): 🤗 The largest hub of ready-to-use datasets for ML models with fast, easy-to-use and efficient data manipulation tools.
 * [FastChat](https://github.com/lm-sys/FastChat): FastChat is an open platform for training, serving, and evaluating large language model based chatbots.
 * [OpenChatKit](https://github.com/togethercomputer/OpenChatKit): OpenChatKit provides a powerful, open-source base to create both specialized and general purpose chatbots for various applications.
@@ -17,7 +18,6 @@ Large Language Models (LLMs) are foundational machine learning models to process
 * [ctransformers](https://github.com/marella/ctransformers): Python bindings for the Transformer models implemented in C/C++ using GGML library.
 * [langchain](https://github.com/hwchase17/langchain): ⚡ Building applications with LLMs through composability ⚡
 * [langchainjs](https://github.com/hwchase17/langchainjs): langchain but in browser
-* 
 
 
 ### Training
