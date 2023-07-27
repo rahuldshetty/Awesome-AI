@@ -45,7 +45,7 @@ Large Language Models (LLMs) are foundational machine learning models to process
 * [GPTQ-for-LLaMa](https://github.com/qwopqwop200/GPTQ-for-LLaMa): 4 bits quantization of LLaMA using GPTQ.
 * [AWQ: Activation-aware Weight Quantization for LLM Compression and Acceleration](https://github.com/mit-han-lab/llm-awq): Efficient and accurate low-bit weight quantization (INT3/4) for LLMs, supporting instruction-tuned models and multi-modal LMs.
 * [CTranslate2](https://github.com/OpenNMT/CTranslate2): CTranslate2 is a C++ and Python library for efficient inference with Transformer models.
-* 
+* [Step By Step Distillation](https://github.com/google-research/distilling-step-by-step): Outperforming Larger Language Models with Less Training Data and Smaller Model Sizes
 
 ### Prompting
 
